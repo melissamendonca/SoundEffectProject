@@ -1,2 +1,2 @@
 # SoundEffectProject
-[https://melissamendonca.github.io/SoundEffectProject/SoundEffectProject/sound-template]
+https://melissamendonca.github.io/SoundEffectProject/SoundEffectProject/sound-template
